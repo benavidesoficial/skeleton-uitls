@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/benavidesoficial/skeleton-utils/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/benavidesoficial/skeleton-utils#readme",
   "devDependencies": {
     "np": "*"
