@@ -1,0 +1,28 @@
+{
+  "name": "@skeleton/utils",
+  "version": "0.0.1",
+  "description": "Utils for Skeleton Mini Framework",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "release": "np",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benavidesoficial/skeleton-utils"
+  },
+  "author": "Miguel Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavidesoficial/skeleton-utils/issues"
+  },
+  "homepage": "https://github.com/benavidesoficial/skeleton-utils#readme",
+  "devDependencies": {
+    "np": "*"
+  }
+}
