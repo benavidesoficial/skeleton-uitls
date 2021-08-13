@@ -1,6 +1,6 @@
 {
   "name": "@skeleton/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utils for Skeleton Mini Framework",
   "main": "index.js",
   "type": "module",
