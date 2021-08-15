@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/benavidesoficial/skeleton-utils#readme",
   "devDependencies": {
-    "np": "*"
+    "np": "*",
+    "prettier": "2.3.2"
   }
 }

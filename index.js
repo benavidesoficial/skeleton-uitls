@@ -1,3 +1,3 @@
-import Router from './lib/Router.js';
+import CommandManager from "./lib/commandManager.js";
 
-export default Router;
+export { CommandManager };
