@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../TECHPRE Microservices.nosync/finances/.idea/finances.iml" filepath="$PROJECT_DIR$/../../TECHPRE Microservices.nosync/finances/.idea/finances.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/skeleton-utils.iml" filepath="$PROJECT_DIR$/.idea/skeleton-utils.iml" />
     </modules>
   </component>

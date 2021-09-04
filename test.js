@@ -30,5 +30,6 @@ manager.registerCommand(addSubtracCredit);
 console.log(manager.getCommands());
 
 const command = manager.getCommand("pdf");
+command.execute();
 // const test = new RouterMapper();
 // console.log(test)
